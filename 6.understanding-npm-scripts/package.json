@@ -1,0 +1,12 @@
+{
+  "name": "6.understanding-npm-scripts",
+  "version": "1.0.0",
+  "description": "1.npm start, 2.npm run start-server",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "start-server": "node index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}

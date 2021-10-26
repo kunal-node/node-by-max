@@ -1,0 +1,1 @@
+console.log("check package.json, script section");
